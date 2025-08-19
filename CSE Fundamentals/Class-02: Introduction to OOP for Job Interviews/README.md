@@ -1,15 +1,11 @@
-### Object-Oriented Programming (OOP) Concepts
+# Object-Oriented Programming (OOP) Concepts
 
----
-
-#### What are the four pillars of OOP?
+## What are the four pillars of OOP?
 
 Answer:
 **Encapsulation**, **Abstraction**, **Inheritance**, and **Polymorphism**.
 
----
-
-#### What is a class?
+### What is a class?
 
 Answer:
 A class is a blueprint or template used to create objects. It defines the properties (fields) and behaviors (methods) that the objects created from it will have.
@@ -45,8 +41,6 @@ s1.ShowInfo();
 ```
 Name: John, ID: 101, Email: john@example.com
 ```
-
----
 
 #### What is an object?
 
@@ -87,8 +81,6 @@ Name: Alice, ID: 102, Email: alice@example.com
 
 **Explanation:**
 Here, `s1` is an object of the `Student` class. It holds data for a specific student and can call the `ShowInfo()` method to display that data.
-
----
 
 #### What is a Constructor?
 
@@ -173,8 +165,6 @@ Name: Karim, ID: 104
 **Explanation:**
 The constructor allows you to automatically set values when the object is created, making code cleaner and more reliable.
 
----
-
 #### What is an Access Modifier?
 
 Answer:
@@ -229,8 +219,6 @@ Name: Tanvir, ID: 123, Email:
 **Explanation:**
 Access modifiers help restrict access to data and methods, increasing security, reusability, and modularity of your code.
 
----
-
 #### What is Encapsulation?
 
 Answer:
@@ -280,8 +268,6 @@ Name: Rahim, ID: 103, Email: rahim@example.com
 
 **Explanation:**
 Here, the internal data of the `Student` class is hidden from direct access. Instead, it can only be modified and retrieved using the provided methods, which is the essence of encapsulation.
-
----
 
 #### What are Setter and Getter?
 
@@ -352,8 +338,6 @@ ID: 106
 
 **Explanation:**
 Instead of giving direct access to `name` and `id`, we control it using `SetName()`, `SetId()`, `GetName()`, and `GetId()` methods. This is useful for validation, formatting, or security before reading/writing data.
-
----
 
 #### What is Inheritance?
 
@@ -437,8 +421,6 @@ Practicing competitive programming problems...
 
 - `JobInterviewCourse` and `CompetitiveProgrammingCourse` inherit fields and methods from `Course` (`title`, `duration`, `courseFee`, `EnrollCourse()`, `ShowInfo()`).
 - They also add their own specific behaviors like `PrepareInterview()` and `PracticeProblems()`.
-
----
 
 #### What is Polymorphism?
 
@@ -531,8 +513,6 @@ Competitive Programming Course - Practice algorithms and problem-solving.
 **Simple Interview Explanation:**
 “Polymorphism means one thing in many forms. Method overloading is when a method has the same name but different inputs. Method overriding is when a child class changes how a method from the parent class works.”
 
----
-
 #### Why is Method Overloading Called Compile-time Polymorphism?
 
 Answer:
@@ -573,8 +553,6 @@ The compiler knows at compile time which `Add` method to use based on the argume
 - The compiler decides which method to call before the program runs.
 - Because of this, method overloading is called **compile-time polymorphism** or **static polymorphism**.
 
----
-
 #### What is Static Binding?
 
 Answer:
@@ -614,8 +592,6 @@ The compiler fixes the method calls (`Add` and `Multiply`) during compilation it
 - It makes program execution faster because no method lookup is needed at runtime.
 - It is the opposite of dynamic binding (runtime binding), where method calls are resolved during program execution.
 
----
-
 #### Why is Method Overriding Called Runtime Polymorphism?
 
 Answer:
@@ -653,8 +629,6 @@ Even though `course` is declared as a `Course` type, the actual method called de
 - Method overriding allows a child class to provide its own version of a method.
 - The method call is resolved during program execution, based on the object’s actual type.
 - This behavior is called **runtime polymorphism** or **dynamic binding**.
-
----
 
 #### What is Dynamic Binding?
 
@@ -694,8 +668,6 @@ Even though `course` is declared as type `Course`, the overridden method in `Com
 - It enables runtime polymorphism and allows flexible and extendable programs.
 - It contrasts with static binding, where the method call is decided at compile time.
 
----
-
 #### Difference Between Method Overloading and Method Overriding (Interview Style):
 
 Answer:
@@ -726,8 +698,6 @@ In short:
 
 - **Overloading** = same method name, different parameters, same class, decided at compile time.
 - **Overriding** = same method signature, different class (child overrides parent), decided at runtime.
-
----
 
 #### What is a Virtual Method?
 
@@ -765,8 +735,6 @@ c.ShowDetails();  // Calls JobInterviewCourse's ShowDetails because it's virtual
 
 In short:
 A virtual method is a base class method that can be overridden in a child class to provide specific behavior, enabling dynamic method dispatch at runtime.
-
----
 
 #### What is Abstraction?
 
@@ -812,8 +780,6 @@ c.ShowDetails();
 
 **✅ In short (Interview style):**
 "Abstraction means showing only the important information and hiding unnecessary details. We use abstract classes or interfaces to define what should be done, and the derived class defines how it should be done."
-
----
 
 #### What is an Abstract Class?
 
@@ -918,8 +884,6 @@ Verifying Bkash number: 017xxxxxxxx
 **✅ In Short (Interview Style):**
 "An abstract class defines a common structure but lets child classes define the specific behavior. In this example, `CoursePayment` defines that all payment types must have `ProcessPayment()` and `VerifyDetails()`, but how they do it depends on the class — Credit Card and Bkash have different ways."
 
----
-
 #### What is an Interface?
 
 Answer:
@@ -1004,8 +968,6 @@ Verifying Bkash Number: 017xxxxxxxx
 
 **✅ In Short (Interview Style):**
 "An interface defines what methods a class should have, but not how they work. It's like a rulebook. The classes that implement the interface must provide their own implementation. It helps create flexible and decoupled code."
-
----
 
 #### What is the Difference between an Abstract class and an Interface?
 
