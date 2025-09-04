@@ -1,0 +1,18 @@
+{
+  "printWidth": 100,
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": false,
+  "bracketSpacing": true,
+  "trailingComma": "none",
+  "endOfLine": "lf",
+  "overrides": [
+    {
+      "files": ["*.cs", "*.cpp", "*.cc", "*.c", "*.h", "*.hpp"],
+      "options": {
+        "parser": "babel-ts"
+      }
+    }
+  ]
+}

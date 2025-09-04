@@ -1,0 +1,32 @@
+# Build artifacts
+bin/
+obj/
+out/
+build/
+dist/
+
+# Dependencies
+node_modules/
+packages/
+
+# IDE files
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Binaries
+*.dll
+*.exe
+*.pdb
+*.so
+*.dylib
+
+# Project files
+*.sln
+*.csproj
+*.vcxproj
+*.user
+*.log
