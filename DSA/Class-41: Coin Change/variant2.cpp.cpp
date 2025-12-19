@@ -4,23 +4,23 @@ using namespace std;
 vector<int> coins;
 vector<int> dp;
 
-bool isPossibleToMakeChange(int remaingAmount) { /// 11
+int findNumberOfways(int remaingAmount) { /// 11
     if(remaingAmount < 0) { // base case
-        return false;
+        return 0;
     }
     if(remaingAmount == 0) { // base case
-        return true;
+        return 1;
     }
     if(dp[remaingAmount] != -1) { // memorization
         return dp[remaingAmount];
     }
 
-    bool isPossible = false;
+    int sumOfPossibleWays = 0;
     for(int i = 0; i < coins.size(); i++) { /// 10, 9, 6 [1, 2, 5]
-        isPossible |= isPossibleToMakeChange(remaingAmount - coins[i]);
+        sumOfPossibleWays += findNumberOfways(remaingAmount - coins[i]);
     }
 
-    return dp[remaingAmount] = isPossible;
+    return dp[remaingAmount] = sumOfPossibleWays;
 }
 
 int main()
@@ -38,5 +38,5 @@ int main()
         coins.push_back(coinValue);
     }
 
-    cout << isPossibleToMakeChange(N) << '\n';
+    cout << findNumberOfways(N) << '\n';
 }
