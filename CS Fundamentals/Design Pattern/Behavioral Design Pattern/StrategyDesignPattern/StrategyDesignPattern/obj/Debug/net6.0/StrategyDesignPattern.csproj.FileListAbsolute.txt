@@ -1,0 +1,15 @@
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/net6.0/StrategyDesignPattern.csproj.AssemblyReference.cache
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/net6.0/StrategyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/net6.0/StrategyDesignPattern.AssemblyInfoInputs.cache
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/net6.0/StrategyDesignPattern.AssemblyInfo.cs
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/net6.0/StrategyDesignPattern.csproj.CoreCompileInputs.cache
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/net6.0/StrategyDesignPattern
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/net6.0/StrategyDesignPattern.deps.json
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/net6.0/StrategyDesignPattern.runtimeconfig.json
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/net6.0/StrategyDesignPattern.dll
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/net6.0/StrategyDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/net6.0/StrategyDesignPattern.dll
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/net6.0/refint/StrategyDesignPattern.dll
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/net6.0/StrategyDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/net6.0/StrategyDesignPattern.genruntimeconfig.cache
+/Users/subhashismollick/Projects/Class/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/net6.0/ref/StrategyDesignPattern.dll

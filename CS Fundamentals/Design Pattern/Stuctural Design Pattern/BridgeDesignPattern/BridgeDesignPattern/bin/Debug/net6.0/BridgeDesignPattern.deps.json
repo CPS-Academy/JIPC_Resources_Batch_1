@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BridgeDesignPattern/1.0.0": {
+        "runtime": {
+          "BridgeDesignPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BridgeDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

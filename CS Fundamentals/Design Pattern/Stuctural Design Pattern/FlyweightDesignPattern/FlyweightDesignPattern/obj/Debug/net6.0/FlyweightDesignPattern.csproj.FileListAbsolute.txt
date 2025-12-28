@@ -1,0 +1,15 @@
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/bin/Debug/net6.0/FlyweightDesignPattern
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/bin/Debug/net6.0/FlyweightDesignPattern.deps.json
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/bin/Debug/net6.0/FlyweightDesignPattern.runtimeconfig.json
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/bin/Debug/net6.0/FlyweightDesignPattern.dll
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/bin/Debug/net6.0/FlyweightDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net6.0/FlyweightDesignPattern.csproj.AssemblyReference.cache
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net6.0/FlyweightDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net6.0/FlyweightDesignPattern.AssemblyInfoInputs.cache
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net6.0/FlyweightDesignPattern.AssemblyInfo.cs
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net6.0/FlyweightDesignPattern.csproj.CoreCompileInputs.cache
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net6.0/FlyweightDesignPattern.dll
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net6.0/refint/FlyweightDesignPattern.dll
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net6.0/FlyweightDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net6.0/FlyweightDesignPattern.genruntimeconfig.cache
+/Users/subhashismollick/Projects/Class/FlyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net6.0/ref/FlyweightDesignPattern.dll

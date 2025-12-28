@@ -1,0 +1,15 @@
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/obj/Debug/net6.0/MediatorDesignPattern.csproj.AssemblyReference.cache
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/obj/Debug/net6.0/MediatorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/obj/Debug/net6.0/MediatorDesignPattern.AssemblyInfoInputs.cache
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/obj/Debug/net6.0/MediatorDesignPattern.AssemblyInfo.cs
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/obj/Debug/net6.0/MediatorDesignPattern.csproj.CoreCompileInputs.cache
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/bin/Debug/net6.0/MediatorDesignPattern
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/bin/Debug/net6.0/MediatorDesignPattern.deps.json
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/bin/Debug/net6.0/MediatorDesignPattern.runtimeconfig.json
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/bin/Debug/net6.0/MediatorDesignPattern.dll
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/bin/Debug/net6.0/MediatorDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/obj/Debug/net6.0/MediatorDesignPattern.dll
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/obj/Debug/net6.0/refint/MediatorDesignPattern.dll
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/obj/Debug/net6.0/MediatorDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/obj/Debug/net6.0/MediatorDesignPattern.genruntimeconfig.cache
+/Users/subhashismollick/Projects/Class/MediatorDesignPattern/MediatorDesignPattern/obj/Debug/net6.0/ref/MediatorDesignPattern.dll

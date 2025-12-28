@@ -1,0 +1,15 @@
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/bin/Debug/net6.0/CommandDesignPattern
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/bin/Debug/net6.0/CommandDesignPattern.deps.json
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/bin/Debug/net6.0/CommandDesignPattern.runtimeconfig.json
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/bin/Debug/net6.0/CommandDesignPattern.dll
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/bin/Debug/net6.0/CommandDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/obj/Debug/net6.0/CommandDesignPattern.csproj.AssemblyReference.cache
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/obj/Debug/net6.0/CommandDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/obj/Debug/net6.0/CommandDesignPattern.AssemblyInfoInputs.cache
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/obj/Debug/net6.0/CommandDesignPattern.AssemblyInfo.cs
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/obj/Debug/net6.0/CommandDesignPattern.csproj.CoreCompileInputs.cache
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/obj/Debug/net6.0/CommandDesignPattern.dll
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/obj/Debug/net6.0/refint/CommandDesignPattern.dll
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/obj/Debug/net6.0/CommandDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/obj/Debug/net6.0/CommandDesignPattern.genruntimeconfig.cache
+/Users/subhashismollick/Projects/Class/CommandDesignPattern/CommandDesignPattern/obj/Debug/net6.0/ref/CommandDesignPattern.dll

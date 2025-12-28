@@ -1,0 +1,15 @@
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/bin/Debug/net6.0/IteratorDesignPattern
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/bin/Debug/net6.0/IteratorDesignPattern.deps.json
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/bin/Debug/net6.0/IteratorDesignPattern.runtimeconfig.json
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/bin/Debug/net6.0/IteratorDesignPattern.dll
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/bin/Debug/net6.0/IteratorDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/obj/Debug/net6.0/IteratorDesignPattern.csproj.AssemblyReference.cache
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/obj/Debug/net6.0/IteratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/obj/Debug/net6.0/IteratorDesignPattern.AssemblyInfoInputs.cache
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/obj/Debug/net6.0/IteratorDesignPattern.AssemblyInfo.cs
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/obj/Debug/net6.0/IteratorDesignPattern.csproj.CoreCompileInputs.cache
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/obj/Debug/net6.0/IteratorDesignPattern.dll
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/obj/Debug/net6.0/refint/IteratorDesignPattern.dll
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/obj/Debug/net6.0/IteratorDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/obj/Debug/net6.0/IteratorDesignPattern.genruntimeconfig.cache
+/Users/subhashismollick/Projects/Class/IteratorDesignPattern/IteratorDesignPattern/obj/Debug/net6.0/ref/IteratorDesignPattern.dll

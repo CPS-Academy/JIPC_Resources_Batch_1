@@ -1,0 +1,15 @@
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/bin/Debug/net6.0/ProxyDesignPattern
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/bin/Debug/net6.0/ProxyDesignPattern.deps.json
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/bin/Debug/net6.0/ProxyDesignPattern.runtimeconfig.json
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/bin/Debug/net6.0/ProxyDesignPattern.dll
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/bin/Debug/net6.0/ProxyDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/obj/Debug/net6.0/ProxyDesignPattern.csproj.AssemblyReference.cache
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/obj/Debug/net6.0/ProxyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/obj/Debug/net6.0/ProxyDesignPattern.AssemblyInfoInputs.cache
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/obj/Debug/net6.0/ProxyDesignPattern.AssemblyInfo.cs
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/obj/Debug/net6.0/ProxyDesignPattern.csproj.CoreCompileInputs.cache
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/obj/Debug/net6.0/ProxyDesignPattern.dll
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/obj/Debug/net6.0/refint/ProxyDesignPattern.dll
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/obj/Debug/net6.0/ProxyDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/obj/Debug/net6.0/ProxyDesignPattern.genruntimeconfig.cache
+/Users/subhashismollick/Projects/Class/ProxyDesignPattern/ProxyDesignPattern/obj/Debug/net6.0/ref/ProxyDesignPattern.dll

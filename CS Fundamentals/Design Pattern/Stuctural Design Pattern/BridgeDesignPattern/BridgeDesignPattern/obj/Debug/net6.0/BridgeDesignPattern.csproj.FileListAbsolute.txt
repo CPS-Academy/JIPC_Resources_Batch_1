@@ -1,0 +1,15 @@
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/bin/Debug/net6.0/BridgeDesignPattern
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/bin/Debug/net6.0/BridgeDesignPattern.deps.json
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/bin/Debug/net6.0/BridgeDesignPattern.runtimeconfig.json
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/bin/Debug/net6.0/BridgeDesignPattern.dll
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/bin/Debug/net6.0/BridgeDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net6.0/BridgeDesignPattern.csproj.AssemblyReference.cache
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net6.0/BridgeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net6.0/BridgeDesignPattern.AssemblyInfoInputs.cache
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net6.0/BridgeDesignPattern.AssemblyInfo.cs
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net6.0/BridgeDesignPattern.csproj.CoreCompileInputs.cache
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net6.0/BridgeDesignPattern.dll
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net6.0/refint/BridgeDesignPattern.dll
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net6.0/BridgeDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net6.0/BridgeDesignPattern.genruntimeconfig.cache
+/Users/subhashismollick/Projects/Class/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net6.0/ref/BridgeDesignPattern.dll

@@ -1,0 +1,5 @@
+/Users/subhashismollick/Projects/Class/Adapter/Adapter/obj/Debug/net6.0/Adapter.csproj.AssemblyReference.cache
+/Users/subhashismollick/Projects/Class/Adapter/Adapter/obj/Debug/net6.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashismollick/Projects/Class/Adapter/Adapter/obj/Debug/net6.0/Adapter.AssemblyInfoInputs.cache
+/Users/subhashismollick/Projects/Class/Adapter/Adapter/obj/Debug/net6.0/Adapter.AssemblyInfo.cs
+/Users/subhashismollick/Projects/Class/Adapter/Adapter/obj/Debug/net6.0/Adapter.csproj.CoreCompileInputs.cache

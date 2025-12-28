@@ -1,0 +1,15 @@
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/bin/Debug/net6.0/TemplateDesignPattern
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/bin/Debug/net6.0/TemplateDesignPattern.deps.json
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/bin/Debug/net6.0/TemplateDesignPattern.runtimeconfig.json
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/bin/Debug/net6.0/TemplateDesignPattern.dll
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/bin/Debug/net6.0/TemplateDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/obj/Debug/net6.0/TemplateDesignPattern.csproj.AssemblyReference.cache
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/obj/Debug/net6.0/TemplateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/obj/Debug/net6.0/TemplateDesignPattern.AssemblyInfoInputs.cache
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/obj/Debug/net6.0/TemplateDesignPattern.AssemblyInfo.cs
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/obj/Debug/net6.0/TemplateDesignPattern.csproj.CoreCompileInputs.cache
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/obj/Debug/net6.0/TemplateDesignPattern.dll
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/obj/Debug/net6.0/refint/TemplateDesignPattern.dll
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/obj/Debug/net6.0/TemplateDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/obj/Debug/net6.0/TemplateDesignPattern.genruntimeconfig.cache
+/Users/subhashismollick/Projects/Class/TemplateDesignPattern/TemplateDesignPattern/obj/Debug/net6.0/ref/TemplateDesignPattern.dll

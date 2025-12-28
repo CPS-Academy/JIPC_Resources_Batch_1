@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XUHZLnsy8T4=",
+  "success": true,
+  "projectFilePath": "/Users/subhashismollick/Projects/Class/Adapter/Adapter/Adapter.csproj",
+  "expectedPackageFiles": [
+    "/Users/subhashismollick/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/bin/Debug/net6.0/FacadeDesignPattern
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/bin/Debug/net6.0/FacadeDesignPattern.deps.json
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/bin/Debug/net6.0/FacadeDesignPattern.runtimeconfig.json
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/bin/Debug/net6.0/FacadeDesignPattern.dll
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/bin/Debug/net6.0/FacadeDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/obj/Debug/net6.0/FacadeDesignPattern.csproj.AssemblyReference.cache
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/obj/Debug/net6.0/FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/obj/Debug/net6.0/FacadeDesignPattern.AssemblyInfoInputs.cache
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/obj/Debug/net6.0/FacadeDesignPattern.AssemblyInfo.cs
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/obj/Debug/net6.0/FacadeDesignPattern.csproj.CoreCompileInputs.cache
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/obj/Debug/net6.0/FacadeDesignPattern.dll
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/obj/Debug/net6.0/refint/FacadeDesignPattern.dll
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/obj/Debug/net6.0/FacadeDesignPattern.pdb
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/obj/Debug/net6.0/FacadeDesignPattern.genruntimeconfig.cache
+/Users/subhashismollick/Projects/Class/FacadeDesignPattern/FacadeDesignPattern/obj/Debug/net6.0/ref/FacadeDesignPattern.dll

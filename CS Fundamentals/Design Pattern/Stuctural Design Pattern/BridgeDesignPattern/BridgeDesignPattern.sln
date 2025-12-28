@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDesignPattern", "BridgeDesignPattern\BridgeDesignPattern.csproj", "{D86D6F4B-1FD3-4262-98D3-5BCD19ED12CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86D6F4B-1FD3-4262-98D3-5BCD19ED12CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86D6F4B-1FD3-4262-98D3-5BCD19ED12CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86D6F4B-1FD3-4262-98D3-5BCD19ED12CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86D6F4B-1FD3-4262-98D3-5BCD19ED12CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
