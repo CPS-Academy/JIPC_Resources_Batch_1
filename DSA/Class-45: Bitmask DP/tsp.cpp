@@ -36,6 +36,9 @@ int tsp(int currentHouse, int mask) {
     return dp[currentHouse][mask] = minCost;
 }
 
+// T.C: O(N^2 * 2^N)
+// S.C: O(N* 2^N)
+
 int main()
 {
     n = 4;
