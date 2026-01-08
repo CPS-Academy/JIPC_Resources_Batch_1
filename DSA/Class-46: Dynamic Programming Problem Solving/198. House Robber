@@ -1,0 +1,22 @@
+class Solution {
+private:
+    const int INVALID = -1;
+    vector<int> maxProfitStorage;
+    int findMaxProfit(int index, vector<int>& nums) {
+        if(index >= nums.size()) {
+            return 0;
+        }
+        int& profit = maxProfitStorage[index];
+        if(profit != INVALID) {
+            return profit;
+        }
+        int maxProfitByRobbingCurrentHouse = nums[index] + findMaxProfit(index + 2, nums);
+        int maxProfitBySkippingCurrentHouse = findMaxProfit(index + 1, nums);
+        return profit = max(maxProfitByRobbingCurrentHouse, maxProfitBySkippingCurrentHouse);
+    }
+public:
+    int rob(vector<int>& nums) {
+        maxProfitStorage.assign(nums.size(), INVALID);
+        return findMaxProfit(0, nums);
+    }
+};
