@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int romanToInt(string s) {
+        unordered_map<char, int> romanSymbolToIntegerValueMap;
+        romanSymbolToIntegerValueMap['I'] = 1;
+        romanSymbolToIntegerValueMap['V'] = 5;
+        romanSymbolToIntegerValueMap['X'] = 10;
+        romanSymbolToIntegerValueMap['L'] = 50;
+        romanSymbolToIntegerValueMap['C'] = 100;
+        romanSymbolToIntegerValueMap['D'] = 500;
+        romanSymbolToIntegerValueMap['M'] = 1000;
+
+        int intergerValue = romanSymbolToIntegerValueMap[ s.back() ];
+        for(int i = s.size() - 2; i >= 0; i--) {
+            if(romanSymbolToIntegerValueMap[ s[i] ] < romanSymbolToIntegerValueMap[ s[i + 1] ]) {
+                intergerValue -= romanSymbolToIntegerValueMap[ s[i] ];
+            }
+            else {
+                intergerValue += romanSymbolToIntegerValueMap[ s[i] ];
+            }
+        }
+        return intergerValue;
+    }
+};

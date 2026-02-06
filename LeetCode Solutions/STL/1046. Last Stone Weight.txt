@@ -1,0 +1,54 @@
+class Solution {
+public:
+    int lastStoneWeight(vector<int>& stones) {
+        priority_queue<int> maxHeap(stones.begin(), stones.end());
+
+        while(maxHeap.size() > 1) {
+            int maxValue = maxHeap.top();
+            maxHeap.pop();
+
+            int secondMaxValue = maxHeap.top();
+            maxHeap.pop();
+
+            if(maxValue != secondMaxValue) {
+                maxHeap.push(maxValue - secondMaxValue);
+            }
+        }
+
+        return maxHeap.empty() ? 0 : maxHeap.top();
+    }
+};
+
+class Solution {
+public:
+    int lastStoneWeight(vector<int>& stones) {
+        while(stones.size() > 1) {
+            int maxValue = 0, maxIndex = -1;
+            for(int i = 0; i < stones.size(); i++) {
+                if(stones[i] > maxValue) {
+                    maxValue = stones[i];
+                    maxIndex = i;
+                }
+            }
+            swap(stones.back(), stones[maxIndex]);
+            stones.pop_back();
+
+            int secondMaxValue = 0, secondMaxIndex = -1;
+            for(int i = 0; i < stones.size(); i++) {
+                if(stones[i] > secondMaxValue) {
+                    secondMaxValue = stones[i];
+                    secondMaxIndex = i;
+                }
+            }
+            swap(stones.back(), stones[secondMaxIndex]);
+            stones.pop_back();
+
+
+            if(maxValue != secondMaxValue) {
+                stones.push_back(maxValue - secondMaxValue);
+            }
+        }
+
+        return stones.empty() ? 0 : stones[0];
+    }
+};

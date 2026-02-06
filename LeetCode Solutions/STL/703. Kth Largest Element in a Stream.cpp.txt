@@ -1,0 +1,74 @@
+class KthLargest {
+private:
+    priority_queue<int, vector<int>, greater<int>> minHeap;
+    vector<int> nums;
+    int k;
+public:
+    KthLargest(int k, vector<int>& nums) { // T.C: O(NlogN) S.C: O(N)
+        this->k = k;
+        this->nums = nums;
+        for(auto& num: nums) {
+            add(num);
+        }
+    }
+    
+    int add(int val) { // T.C: O(logN) S.C: O(1)
+        minHeap.push(val);
+        if(minHeap.size() > this -> k) {
+            minHeap.pop();
+        }
+        return minHeap.top();
+    }
+    /*
+        [2, 4, 5, 8] k = 3                ---> kthLargest
+        [2, 3, [4], 5, 8]                 ---> add(3) = 4
+        [2, 3, 4, [5], 5, 8]              ---> add(5) = 5
+        [2, 3, 4, 5, [5], 8, 10]          ---> add(10) = 5
+        [2, 3, 4, 5, 5, [8], 9, 10]       ---> add(9) = 8
+        [2, 3, 4, 4, 5, 5, [8], 9, 10]    ---> add(4) = 8
+    */
+};
+
+/**
+ * Your KthLargest object will be instantiated and called as such:
+ * KthLargest* obj = new KthLargest(k, nums);
+ * int param_1 = obj->add(val);
+ */
+
+
+class KthLargest {
+private:
+    priority_queue<int, vector<int>, greater<int>> minHeap;
+    vector<int> nums;
+    int k;
+public:
+    KthLargest(int k, vector<int>& nums) { // T.C: O(NlogN) S.C: O(N)
+        this->k = k;
+        this->nums = nums;
+        for(auto& num: nums) {
+            add(num);
+        }
+    }
+    
+    int add(int val) { // T.C: O(N) S.C: O(1)
+        minHeap.push(val);
+        if(minHeap.size() > this -> k) {
+            minHeap.pop();
+        }
+        return minHeap.top();
+    }
+    /*
+        [2, 4, 5, 8] k = 3                ---> kthLargest
+        [2, 3, [4], 5, 8]                 ---> add(3) = 4
+        [2, 3, 4, [5], 5, 8]              ---> add(5) = 5
+        [2, 3, 4, 5, [5], 8, 10]          ---> add(10) = 5
+        [2, 3, 4, 5, 5, [8], 9, 10]       ---> add(9) = 8
+        [2, 3, 4, 4, 5, 5, [8], 9, 10]    ---> add(4) = 8
+    */
+};
+
+/**
+ * Your KthLargest object will be instantiated and called as such:
+ * KthLargest* obj = new KthLargest(k, nums);
+ * int param_1 = obj->add(val);
+ */

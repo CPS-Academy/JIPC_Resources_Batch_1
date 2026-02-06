@@ -1,0 +1,46 @@
+class Solution {
+public:
+    int numIdenticalPairs(vector<int>& nums) {
+        int goodPairsCount = 0;
+        unordered_map<int, int> frequencyCount;
+        for(auto& num: nums) {
+            goodPairsCount += frequencyCount[num];
+            frequencyCount[num]++;
+        }
+        return goodPairsCount;
+    }
+};
+
+class Solution {
+public:
+    int numIdenticalPairs(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        int goodPairsCount = 0;
+        int currentDuplicateCount = 0;
+        for(int j = 1; j < nums.size(); j++) {
+            if(nums[j - 1] == nums[j]) {
+                currentDuplicateCount++;
+                goodPairsCount += currentDuplicateCount;
+            }
+            else{
+                currentDuplicateCount = 0;
+            }
+        }
+        return goodPairsCount;
+    }
+};
+
+class Solution {
+public:
+    int numIdenticalPairs(vector<int>& nums) {
+        int goodPairsCount = 0;
+        for(int i = 0; i < nums.size(); i++) {
+            for(int j = i + 1; j < nums.size(); j++) {
+                if(nums[i] == nums[j]) {
+                    goodPairsCount++;
+                }
+            }
+        }
+        return goodPairsCount;
+    }
+};
